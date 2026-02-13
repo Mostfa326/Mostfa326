@@ -71,6 +71,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=for-the-badge" />
-</p>
