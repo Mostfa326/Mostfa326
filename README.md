@@ -12,7 +12,7 @@
 - 🧠 Founder & Lead Developer at **Avesta Tech**
 - 🎯 Focused on **Gameplay Systems & Interactive Worlds**
 - 💻 Skilled in **Python & C#**
-- 🌐 Web Developer
+- 🐉 Kali
 - 🔥 Unity Specialist | Exploring Unreal Engine
 - 🏛 From Persia – Programming with legacy mindset
 
